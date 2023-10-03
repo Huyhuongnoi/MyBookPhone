@@ -1,0 +1,6 @@
+Tạo một chương trình mô phỏng một danh bạ với các chức năng:
+1. thêm liên lạc
+2. Sửaa thông tin liên lạcc
+3. Xoá thông tin liên lạc
+4. xem danh bạ
+- Ghi dữ liệu vào file
