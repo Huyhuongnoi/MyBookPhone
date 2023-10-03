@@ -130,15 +130,11 @@ public class Functions extends Contact{
             String contact;
             while ((contact = bufferedReader.readLine()) != null) {
                 Functions.listContact.add(contact);
-                System.out.println(contact);
             }
             bufferedReader.close();
         } catch (Exception e) {
             e.printStackTrace();
         }
 
-    }
-    public void delete(){
-        Functions.file.delete();
     }
 }
